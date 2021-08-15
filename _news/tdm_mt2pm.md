@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Territory of Tomorrow" meeting on September 10, 2021, Port Center Le Havre 
+title: meeting "Territory of Tomorrow" on September 10, 2021, Port Center Le Havre 
 date: 2021-07-10
 inline: false
 ---
