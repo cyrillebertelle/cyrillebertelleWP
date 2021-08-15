@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participation to Blockchain'21, October 6-8, 2021, Salamanca, Spain
+title: Participation Blockchain'21, October 2021, Salamanca, Spain
 date: 2021-07-9
 inline: false
 ---
