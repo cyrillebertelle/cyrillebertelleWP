@@ -42,7 +42,7 @@ category: past
 
 * "Local Nash Equilibrium in Social Networks", in honour of John Nash, Keynote speaker at ESM'2015, 20 October 2015, Leceister, United Kingdom.
 
-* "ComplexSystemsMorphodynamics:Concepts,AlgorithmsandImplementation",keynotespea- ker at 8th IWCFTA, HellonJiang University, 30 August 2015 in Harbin, China.
+* "Complex Systems Morphodynamics: Concepts, Algorithms and Implementation",keynotespeaker at 8th IWCFTA, HellonJiang University, 30 August 2015 in Harbin, China.
 
 * "Complex systems and networks for territorial intelligence", guest speaker at NeX Days, April 30, 2015 in Agadir, Morocco.
 
