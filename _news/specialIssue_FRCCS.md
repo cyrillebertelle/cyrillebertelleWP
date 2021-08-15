@@ -10,4 +10,4 @@ a special issue of the journal **Applied Network Science** published by Springer
 
 ***
 
-More information is available [here](https://appliednetsci.springeropen.com/frccs2021).
+More information and contributions can be sent [here](https://appliednetsci.springeropen.com/frccs2021).
