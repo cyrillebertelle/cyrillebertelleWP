@@ -7,7 +7,7 @@ inline: false
 
 The scientific and innovation meeting "Territory of Tomorrow" on geolocalized digital information and tourist attendance in Normandie, will be helded on September 10, 2021, Port Center Le Havre.
 
-This scientific and innovation meeting is organised in the framework of MT2PM research project 
+This scientific and innovation meeting is organised in the framework of MT2PM research project. 
 
 ***
 
