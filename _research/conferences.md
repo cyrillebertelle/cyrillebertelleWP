@@ -6,7 +6,7 @@ inline: false
 category: past
 ---
 
-## organisation of conferences (2017-2020)
+### organisation of conferences (2017-2020)
 
 * Member of the organising committee of the [RIRL 2020 international meetings](https://rirl2020.sciencesconf.org/), 7-9 October 2020, ISEL, Université Le Havre Normandie, France.
 
@@ -24,7 +24,7 @@ category: past
 
 * Co-organiser of the [international conference IPaSPort'2017](http://ipasport.univ-lehavre.fr), May 3-4, Le Havre, Normandie.   
 
-##  Keynote speaker invitation (2014-2020)
+###  Keynote speaker invitation (2014-2020)
 
 * "Round table: Innovation and cybersecurity for the maritime world", Cybersecurity Normandie Meeting, organised by CyberCercle, 10 December 2020.
 
@@ -48,7 +48,7 @@ category: past
 
 * "Multiscale complexity of road networks and their vulnerability for risk prevention and management", invited speaker at the seminar "Road safety: measurement, issues and stakeholder strategies", 25 May 2014 at the University of Oran, Algeria.
 
-## invitation to foreign universities
+### invitation to foreign universities
 
 * Ecole Centrale de Casablanca: invitation from 19 to 21 April 2017 to conduct a research seminar on complex systems and logistics as part of the reflection on the development of research in this school.
 
@@ -58,5 +58,5 @@ category: past
 
 * University of INHA in South Korea: invitation for 2 weeks in the computer science department, April 2012.
 
-## scientific committee / editorial board /expertise 
+### scientific committee / editorial board /expertise 
 
