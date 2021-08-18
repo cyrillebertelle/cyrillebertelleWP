@@ -8,7 +8,7 @@ category: past
 ---
 
 
-### Management of laboratories, institutes, international networks, research teams
+### management of laboratories, institutes, international networks, research teams
 
 * **President of the GIS "Institute for intelligent logistics in the Seine Valley"**, since December 2020. The creation of this GIS follows a working group set up since 2017 by Prefect Philizot of the inter-ministerial mission of the Seine Valley, in order to structure and coordinate research in logistics in the Normandy and Ile de France regions.
 
@@ -24,7 +24,7 @@ category: past
 
 * **Co-leader of the "Complex systems" axis in the CNRS 3638 NormaSTIC federation**, which brings together Normandy university researchers in ICST, from 2014 to 2018. 
 
-### Collective responsabilities
+### collective responsabilities
 
 * **Vice President of PRES Normandie Université from January to November 2012**  
 In January 2012, I was appointed Vice President of the PRES Normandie Université which had just been created by ministerial decree. At the time, there were three of us to steer this structure with the President Joël Alexandre from Rouen University and a Vice President, Carole Dornier from Caen University. It was a complex task to define the contours of this structure. In particular, we are organising the Normandy research conference, following the conference on teaching; the aim is to cross-reference the research structures and to show the possible synergies between the major areas of focus identified by the institutions.
