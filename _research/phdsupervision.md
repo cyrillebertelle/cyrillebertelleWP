@@ -11,7 +11,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 ***
 
-### Phd in preparation
+### phd in preparation
 
 * **Rim Abdallah**, "Secured traceability of hazardous materials transport management in smart ports by blockchain technologies", PhD start: 03/2021, expected date of defense: 03/2024, co-supervised by Dr. Claude Duvallet (LITIS, Le Havre).  
 **Funding**: CIFRE agreement with HAROPA, consortium of the ports of Le Havre, Rouen and Paris.
@@ -25,7 +25,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 * **Camille Simon**, "Securing distributed supply chains by Blockchain and smart contracts", PhD start: 11/2018, expected defense date: 03/2022 (sick leave covid in 2020), co-supervised by Dr. Claude Duvallet (LITIS, Le Havre).  
 **Funding**: allocation from the Communauté d'Agglomération du Havre (LHSM).
 
-### Phd already defended
+### phd already defended
 
 * **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", PhD start: 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
 **Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
