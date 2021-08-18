@@ -6,7 +6,16 @@ inline: false
 category: past
 ---
 
-### organisation of conferences (2017-2020)
+### organisation of conferences (2017-)
+
+* Co-chairman of [ICoSCal'21](https://icoscal21.sciencesconf.org/), international conference on smart corridors and logistics, November 24-26, 2021, Le Havre, France.
+
+* Co-organiser of the scientific and innovation meeting "Territory of Tomorrow" on geolocalized digital information and tourist attendance in Normandie, September 10, 2021, Port Center Le Havre. This event is organised in the framework of MT2PM research project. Flyer is avalaible [here](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/plaquette_MT2PM_territoires_de_demain_vdef.pdf)
+
+* Co-organiser of satellite workshop [CSS Chapters](https://compsysfrance.wixsite.com/chapters), October 27, 2021 within [CSS 2021](https://ccs2021.univ-lyon1.fr/#HOME) Lyon, France
+
+* Co-organiser of [FRCCS 2021](https://iutdijon.u-bourgogne.fr/ccs-france/), French Regional Conference on Complex Systems, May 26-28, 2021, Dijon, France.  
+A special issue of the journal _Applied Network Science, Springer_ is proposed [here](https://appliednetsci.springeropen.com/frccs2021)
 
 * Member of the organising committee of the [RIRL 2020 international meetings](https://rirl2020.sciencesconf.org/), 7-9 October 2020, ISEL, Université Le Havre Normandie, France.
 
@@ -24,7 +33,7 @@ category: past
 
 * Co-organiser of the [international conference IPaSPort'2017](http://ipasport.univ-lehavre.fr), May 3-4, Le Havre, Normandie.   
 
-###  Keynote speaker invitation (2014-2020)
+###  keynote speaker invitation (2014-2020)
 
 * "Round table: Innovation and cybersecurity for the maritime world", Cybersecurity Normandie Meeting, organised by CyberCercle, 10 December 2020.
 
@@ -60,3 +69,10 @@ category: past
 
 ### scientific committee / editorial board /expertise 
 
+* Guest Editor of the special issue ["TS: Special Issue of the French Regional Conference on Complex Systems (FRCCS 2021)"](https://appliednetsci.springeropen.com/frccs2021) of the international journal [_Applied Network Science_](https://appliednetsci.springeropen.com/), published by Springer.
+
+* Participation in the work of UN/CEFACS in Rome, October 4, 2017: day on Blockchain for the realization of a white paper.
+
+* Participation in the delegation of the Normandy Region within the framework of the development of a Task Force reinforcing the presence of Normandy at the European Commission: seminar "Axe Seine" from 20 to 21 June 2017 in Brussels; I represented the University of Le Havre Normandy in this delegation. 
+
+* Participation in the writing of the national roadmap on complex systems, at the initiative of the RNSC and its regional institutes (ISCN, ISC-PIF, XSYS, IXXI), from 21 to 23 June 2017, in Châtenay-sur-Seine.
