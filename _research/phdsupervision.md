@@ -99,7 +99,29 @@ Four PhD are in preparation and about eighteen have already been defended under 
 **Funding**: Côte d'Ivoire doctoral grant  
 **Current position of the doctor**: Manager of [ABTOO](http://www.abtoo.com), Design office and simulation (static and dynamic) of road traffic.
 
+### Participation in PhD and HDR juries (2018-2021)
 
+In addition to the PhD I have supervised myself and which are listed above, I have participated in a large number of PhD or HDR juries in France or abroad. I mention below (1) all the participations in HDR juries, (2) the only participations in PhD juries when I was either rapporteur or president of the jury, over the period 2018-2021:
+
+* Rapporteur of the PhD of Maroi Agrebi defended on 12/04/2018 at the Polytechnic University of Haut de France and the University of Sfax ;
+
+* President of the jury of Ebtissem Sassi's PhD defended on 05/04/2019 at the University of Le Havre Normandie;
+
+* Rapporteur of the PhD of Mouna Rifi defended on 03/05/2019 at the University Sorbonne Paris Cité;
+
+* Examiner of Olivier Bonin's HDR defended on 27/05/2019 at the University of Besançon;
+
+* Rapporteur of the HDR of Hichem Oumrani defended on 24/06/2019 at the University of Technology of Compiègne;
+
+* President of the jury of Youssa Sidqi's PhD defended on 22/10/2019 at the University of Grenoble Alpes;
+
+* Examiner of the HDR of Damienne Provitolo defended on 06/12/2019 at Sophia Antipolis;
+
+* Rapporteur of the PhD of Cheikhou Oumar Ka defended on 11/12/2019 at the University of Dakar in Senegal
+
+* Rapporteur of the PhD of Igor Tchappi Haman defended on 13/05/2020 at the technological university of Belfort Monbéliard;
+
+* Rapporteur of the PhD of Audren Bouadjio-Boulic defended on 18/03/2021 at the University of Toulouse 1 Capitole.
 
 
 
