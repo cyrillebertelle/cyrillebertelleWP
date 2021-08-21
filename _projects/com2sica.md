@@ -28,4 +28,4 @@ It brings together researchers from the following laboratories:
 
 With a team of mathematicians and computer scientists from Le Havre, we are in charge of the modelling part of this project led by D. Provitolo from the UMR GéoAzur of Sophia Antipolis. This success follows a decade-long collaboration in the form of previous successes in PEPS and IDEX Côte d'Azur projects.
 
-More information from the project's dedicated website (https://www.com2sica.cnrs.fr/)
+More information from [project's dedicated website#](https://www.com2sica.cnrs.fr/)
