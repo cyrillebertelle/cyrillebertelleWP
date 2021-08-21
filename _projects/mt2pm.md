@@ -2,7 +2,7 @@
 layout: page
 title: MT2PM
 description: RIN scientific project, 2019-2021, Normandie Region 
-img: /assets/img/logo_mt2pm.png
+img: /assets/img/logo_mt2pm-v2.png
 importance: 40
 category: research
 ---
