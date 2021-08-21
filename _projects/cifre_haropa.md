@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIFRE HAROPA Port - LITIS - SFLog 
+title: CIFRE HAROPA - LITIS - SFLog 
 description: traçabilité des matières dangereuses par blockchain 
 img: /assets/img/logo_haropa-v2.png
 importance: 70
