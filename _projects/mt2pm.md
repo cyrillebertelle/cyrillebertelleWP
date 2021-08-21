@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MT2PM
-description: RIN scientific project, 2019-2021, Normandie Region 
+description: RIN scientific project, 2018-2021, Normandie Region 
 img: /assets/img/logo_mt2pm-v2.png
 importance: 40
 category: research
@@ -21,7 +21,7 @@ The MT2PM project (Modelling of Land Mobility of Maritime Passengers), which is 
 
 With reference to the sciences of complexity, it is now known that the great complexity of individual mobility choices, which are uncoordinated and contain an element of uncertainty, can nevertheless be translated into collective behaviour that is legible in the territory. The analysis of the land mobility of cruise passengers, known from geolocalised and anonymised mobile phone and social network traces, makes it possible to identify areas of interest and preferred destinations within the Normandy territory and beyond, particularly towards the Ile-de-France area.
 
-The project is financed by the Normandy Region within the framework of the [RIN](https://aides.normandie.fr/rin-recherche-2021) (Norman Interest Networks) and the [CTM](https://www.normandie-univ.fr/recherche/structuration-de-la-recherche/pole-ctm/)(Land-Sea Continuum) training and research centre, for the period 2019-2021.
+The project is financed by the Normandy Region within the framework of the [RIN](https://aides.normandie.fr/rin-recherche-2021) (Norman Interest Networks) and the [CTM](https://www.normandie-univ.fr/recherche/structuration-de-la-recherche/pole-ctm/)(Land-Sea Continuum) training and research centre, for the period 2018-2021.
 
 The scientific director is [Françoise Lucchini](https://www.linkedin.com/in/fran%C3%A7oise-lucchini/?originalSubdomain=fr). The context and issues are presented in this [video](https://webtv.univ-rouen.fr/videos/episode-4/).
 
