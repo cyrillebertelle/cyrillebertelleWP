@@ -11,9 +11,11 @@ category: research
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mocub_logo-v2.png' | relative_url }}" alt="" title="XTerM logo"/>
     </div>
 </div>
+<!--
 <div class="caption">
     MOCUB logo
 </div>
+-->
 
 The MOCUB project focuses on blockchain technology, which is based on a computer infrastructure that works with validators who contribute their computing power in exchange for a fee. The blockchain allows various uses, including the conclusion and execution of automated contracts. The multidisciplinary project (law, economics, IT) MOCUB aims to analyse these behaviours and derive an economic model for the modelling of simple and complex contracts on blockchain.
 
