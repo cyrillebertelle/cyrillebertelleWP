@@ -33,7 +33,7 @@ At the end of the project, this consortium produced a total of 151 articles in s
 
 It also gave rise to the international symposium [XTerM2019](https://xterm2019.sciencesconf.org/) and the publication of a [collective book with Springer](https://link.springer.com/book/10.1007/978-3-030-59302-5)
 
-An activity report of 232 pages was produced at the end of the project and is available [here]((https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/Rapport-Scientifique-xterM201911.pdf))
+An activity report of 232 pages was produced at the end of the project and is available [here](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/Rapport-Scientifique-xterM201911.pdf)
 
 <!-- 
 Every project has a beautiful feature showcase page.
