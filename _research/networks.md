@@ -1,7 +1,7 @@
 ---
 layout: post
 title: research management
-description: management of laboratories, institutes, international networks, research teams
+description: management of laboratories, institutes, international networks, research teams ; Expertise and committee member.
 date: 2021-07-07
 inline: false
 category: past
@@ -40,3 +40,12 @@ In April 2012, the new president of the University of Le Havre asked me to take 
   - The development of two secretarial pools for laboratories to facilitate the management of their administration.
   - The development of the DiRVED (research, development and doctoral studies department) to strengthen the research project set-up and monitoring centres.
 
+### scientific committee / editorial board /expertise 
+
+* Guest Editor of the special issue ["TS: Special Issue of the French Regional Conference on Complex Systems (FRCCS 2021)"](https://appliednetsci.springeropen.com/frccs2021) of the international journal [_Applied Network Science_](https://appliednetsci.springeropen.com/), published by Springer.
+
+* Participation in the work of UN/CEFACS in Rome, October 4, 2017: day on Blockchain for the realization of a white paper.
+
+* Participation in the delegation of the Normandy Region within the framework of the development of a Task Force reinforcing the presence of Normandy at the European Commission: seminar "Axe Seine" from 20 to 21 June 2017 in Brussels; I represented the University of Le Havre Normandy in this delegation. 
+
+* Participation in the writing of the national roadmap on complex systems, at the initiative of the RNSC and its regional institutes (ISCN, ISC-PIF, XSYS, IXXI), from 21 to 23 June 2017, in Châtenay-sur-Seine.
