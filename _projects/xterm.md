@@ -11,9 +11,11 @@ category: research
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logoXterm-v2.png' | relative_url }}" alt="" title="XTerM logo"/>
     </div>
 </div>
+<!--
 <div class="caption">
     XTerM logo
 </div>
+-->
 
 The XTERM project (Complex Systems, Territorial Intelligence and Mobility) deals with the modelling of territorial systems and associated mobilities in the face of new societal and economic challenges. The territory is the support and the product of actors through a feedback loop that makes a system.
 
