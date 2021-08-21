@@ -1,7 +1,7 @@
 ---
 layout: post
 title: research management
-description: management of laboratories, institutes, international networks, research teams ; Expertise and committee member.
+description: management of laboratories, institutes, international networks, research teams ; expertise and committee member.
 date: 2021-07-07
 inline: false
 category: past
