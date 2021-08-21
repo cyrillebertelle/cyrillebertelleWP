@@ -36,4 +36,3 @@ The deliverables consist of geomatic visualisation applications for :
 * Characterise the rhythms and temporalities of mobility
 
 More information is available on the [dedicated website](https://umr-idees.fr/2020/12/07/rin-mt2pm-modelisation-des-mobilites-terrestres-des-passagers-maritimes/).
- Translated with www.DeepL.com/Translator (free version)
