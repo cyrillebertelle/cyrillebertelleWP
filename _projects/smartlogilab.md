@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SmartLogiLab
-description: LabCom SOGET-LITIS-SFLog
+title: LabCom SmartLogiLab
+description: Laboratoire commun SOGET-LITIS-SFLog
 img: /assets/img/smartLogiLab_logo-v2.png
 importance: 77
 category: research
