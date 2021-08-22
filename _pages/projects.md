@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: list of projects below; click on each box for detailed information
 nav: true
-display_categories: [research, dissemination, others]
+display_categories: [latest projects, previous projects, dissemination, others]
 horizontal: false
 ---
 <div class="projects">
