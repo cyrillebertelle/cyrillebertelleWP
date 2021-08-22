@@ -33,4 +33,4 @@ The project is financed by the Normandy Region within the framework of the [RIN]
 
 The scientific direction is ensured by Claude Duvallet (LITIS, University Le Havre Normandie) and Roland Condor (EM Normandie).
 
-It involves 9 research structures in 6 institutions (EM Normandie, University Le Havre Normandie, ESIGELEC, IDIT, University Rouen Normandie, Neoma BS) on the three sites of Le Havre, Rouen and Caen: SFLog, LITIS, GREAH, NIMEC, METIS, LMRS, IRSEEM, MOBIS, IDIT.
+It involves 10 research structures in 6 institutions (EM Normandie, University Le Havre Normandie, ESIGELEC, IDIT, University Rouen Normandie, Neoma BS) on the three sites of Le Havre, Rouen and Caen: SFLog, LITIS, LMAH, GREAH, NIMEC, METIS, LMRS, IRSEEM, MOBIS, IDIT.
