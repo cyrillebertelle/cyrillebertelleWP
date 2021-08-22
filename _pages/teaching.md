@@ -4,7 +4,7 @@ permalink: /teaching/
 collection: teaching
 title: teaching
 description: list of activities below; click on each item for detailed information
-display_categories: [current, past]
+display_categories: [cours récents, archive d'anciens cours]
 nav: true
 profile:
   align: right
