@@ -33,7 +33,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Nesrine Masmoudi**, "Bio-inspired methods for graph clustering, applications to data mining and simulation distribution", PhD start: 02/2012, defended on 06/01/2017, co-supervision: Prof. M. Ben Jamaa (Tunisia, co-supervision), co-supervised with Dr. H. Azzag and Dr. M. Lebbah (LIPN, Paris 13)  
 **Funding**: assistant at the engineering school of Sfax  
-**Current situation of the doctor**: looking for a position in a Tunisian university.
+**Current situation of the doctor**: Assistant Professor and Head of Computer Sciences Department at College of Business Administration, Taibah University, Saudi Arabia.
 
 * **Haifa Rabai**, "Dynamic network of coupled chaotic applications for the study of urban mobility", PhD start: 10/2012, defended on 06/12/2016, co-supervision: R. Charrier (LITIS, Le Havre)  
 **Funding**: allocation d'établissement/MESR  
