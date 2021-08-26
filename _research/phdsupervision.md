@@ -37,7 +37,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Haifa Rabai**, "Dynamic network of coupled chaotic applications for the study of urban mobility", PhD start: 10/2012, defended on 06/12/2016, co-supervision: R. Charrier (LITIS, Le Havre)  
 **Funding**: allocation d'établissement/MESR  
-**Current position of the doctor**: Head of the IA innovation division at Sopra Steria, Rouen.
+**Current position of the doctor**: Digital Booster Leader, Sanofi Pasteur.
 
 * **Suhad Faisal**, "Adaptive Modeling of Urban Dynamics with Mobile Phone Database", PhD start: 04/2012, defended on 26/11/2016  
 **Funding**: grant from Iraq as part of a doctoral training programme  
@@ -49,7 +49,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Clément Duhart**, "Toward Organic Ambient Intelligences? EMMA", PhD started: 12/2012, defended on 21/06/2016.  
 **Funding**: teacher at ECE, Paris  
-**Current situation of the doctor** : post-doctoral fellow at the MIT Media Lab, USA.
+**Current situation of the doctor** : post-doctoral fellow at the MIT Media Lab, USA ; Founder and manager of De Vinci Innovation Center, Courbevoie, France.
 
 * **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", PhD start: 11/2011, defended on 12 October 2015, co-supervision: Prof. Eric Sanlaville (LITIS, Le Havre)  
 **Funding**: grant from Iraq in the framework of a doctoral training programme  
@@ -57,9 +57,9 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Abdelhamid Zouhair**, "Multi-agent dynamic case-based reasoning; application to an intelligent tutor system", PhD start: 10/2009, defended on 20/10/2014, co-supervision: Prof. Benaissa Amami (Morocco, co-supervision), co-supervised with Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour and Dr. P. Person (LITIS, Le Havre)  
 **Funding**: civil servant at the Ministry of the City in Morocco  
-**Current position of the doctor**: Lecturer at the University of Tangier, Morocco.
+**Current position of the doctor**: Assistant Professor at Abdelmalek Essaâdi University, Tétouan, Morocco.
 
-* **Karim Mahboub**, "Modelling emotional processes in decision making", defended on 22/11/2011, duration: 61 months, co-supervision: Dr. E. Clément (ICONES, Rouen) and Dr. Véronique Jay (LITIS, Le Havre)  
+* **Karim Mahboub**, "Modelling emotional processes in decision making", defended on 22/11/2011, co-supervision: Dr. E. Clément (ICONES, Rouen) and Dr. Véronique Jay (LITIS, Le Havre)  
 **Funding**: regional doctoral allocation + ATER  
 **Current position of the doctor**: project manager in an IT company in Dubai.
 
