@@ -45,7 +45,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Thibaut Démare**, "A systemic approach based on agents and dynamic graphs to model the port-metropolis logistic interface", PhD start: 10/2012, defended on 26/09/2016, co-supervision: L. Lévèque (IDEES, Le Havre), A. Dutot (LITIS, Le Havre)  
 **Funding**: allocation from the Le Havre agglomeration community  
-**Current situation of the doctor**: Research engineer on an ERDF project.
+**Current situation of the doctor**: Lead Developer at Smartlight.
 
 * **Clément Duhart**, "Toward Organic Ambient Intelligences? EMMA", PhD started: 12/2012, defended on 21/06/2016.  
 **Funding**: teacher at ECE, Paris  
