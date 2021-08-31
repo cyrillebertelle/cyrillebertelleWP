@@ -29,7 +29,7 @@ Four PhD are in preparation and about eighteen have already been defended under 
 
 * **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", PhD start: 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
 **Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
-**Current position of the doctor**: Quant analyst at the Autorité des Marchés Financiers.
+**Current position of the doctor**: Head of Data Intelligence at the Autorité des Marchés Financiers.
 
 * **Nesrine Masmoudi**, "Bio-inspired methods for graph clustering, applications to data mining and simulation distribution", PhD start: 02/2012, defended on 06/01/2017, co-supervision: Prof. M. Ben Jamaa (Tunisia, co-supervision), co-supervised with Dr. H. Azzag and Dr. M. Lebbah (LIPN, Paris 13)  
 **Funding**: assistant at the engineering school of Sfax  
