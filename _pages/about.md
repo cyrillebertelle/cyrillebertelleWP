@@ -24,7 +24,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France. He is also Director of SFLog, Research Federation in Logistics, Normandie. He is co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin.  
+Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France. He heads the SFLog federative research structure in logistics in Normandy. He chairs the scientific interest group (GIS) Institut pour une logistique intelligente en Vallée de Seine (ILI-VS). He heads SmartLogiLab, a joint research and innovation laboratory run by SOGET and the LITIS laboratory at the University of Le Havre Normandie and supported by the French National Research Agency (ANR). He is co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin.  
    
    
 ## current research interests and projects
