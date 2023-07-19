@@ -20,7 +20,7 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: '3.1'
-      run: bundle install
+    - run: bundle install
     - name: Enable bundler cache
       uses: actions/cache@v2
       with:
