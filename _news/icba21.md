@@ -3,6 +3,7 @@ layout: post
 title: Participation Blockchain'21, October 2021, Salamanca, Spain
 date: 2021-07-11
 inline: false
+published: false
 ---
 
 Oral communication to the 3rd International Congress on Blockchain and Applications 

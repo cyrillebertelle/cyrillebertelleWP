@@ -3,6 +3,7 @@ layout: post
 title: Special Issue FRCCS 2021 - Applied Network Science
 date: 2021-07-05
 inline: false
+published: false
 ---
 
 Following the French Regional Conference on Complex Systems, May 26-28, 2021, Dijon, France, 
