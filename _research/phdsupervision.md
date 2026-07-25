@@ -30,7 +30,7 @@ Two PhD are in preparation and twenty two have already been defended under my di
 **Current position of the doctor** : Temporary Teaching and Research Grant Holder (ATER) at Le Havre Normandy University.
 
 * **Rim Abdallah**, "Enhancing Maritime Logistics with Blockchain Technology : Application to Secure and Trace Dangerous Goods in Smart Ports", PhD start: 03/2021, defended on 18/06/2024, co-supervision: Dr. Claude Duvallet (LITIS, Le Havre).  
-**Funding** : [CIFRE Agreement](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844with) with HAROPA (Le Havre, Rouen and Paris Ports Consortium). 
+**Funding** : [CIFRE Agreement](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844with) with HAROPA (Le Havre, Rouen and Paris Ports Consortium).   
 **Current position of the doctor** : Cyber Security Specialist, Renault Group, France
 
 * **Mongetro Goint**, "Building Digital Trust in Smart Territories Through Secure Consent Mechanisms Based on Blockchain Technology", PhD start: 11/2019, defended on 23/06/2023, co-supervision: Dr. Claude Duvallet (LITIS, Le Havre).   
@@ -62,7 +62,7 @@ Two PhD are in preparation and twenty two have already been defended under my di
 **Current situation of the doctor** : Director of Strategy and Innovation at IONIS Education Group.
 
 * **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", PhD start: 11/2011, defended on 12/10/2015, co-directed with Pr. Eric Sanlaville (LITIS, Le Havre)  
-**Funding**: Research Grant from Iraq in the framework of a doctoral training programme. 
+**Funding**: Research Grant from Iraq in the framework of a doctoral training programme.   
 **Current position of the doctor**: Assistant Professor at the University of Baghdad, Iraq.
 
 * **Abdelhamid Zouhair**, "Multi-agent dynamic case-based reasoning; application to an intelligent tutor system", PhD start: 10/2009, defended on 20/10/2014, co-supervision: Pr. Benaissa Amami (FST Tanger, Morocco, co-supervision), co-supervised with Dr. El Mokhtar En-Naimi (FST Tanger, Morocco), Dr. Hadhoum Boukachour and Dr. Patrick Person (LITIS, Le Havre)  
@@ -75,7 +75,7 @@ Two PhD are in preparation and twenty two have already been defended under my di
 
 * **Michel Nabaa**, "Morphodynamics of road networks –
 Application to risk assessment", defended on 12/04/2011, co-directed with Pr. Damien Olivier, co-supervision: Dr. Antoine Dutot (LITIS, Le Havre)  
-**Funding**: [CIFRE Agreement](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844with) with the Le Havre Urban Community + ATER (Temporary Teaching and Research Grant Holder) 
+**Funding**: [CIFRE Agreement](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844with) with the Le Havre Urban Community + ATER (Temporary Teaching and Research Grant Holder).  
 **Current situation of the doctor**: Domain Manager at BGL BNP Paribas.
 
 * **Beddine Ould Mohamed Lemine**, "Modelling in game theory by genetic automata genetic automata", defended on 08/06/2010, co-supervision: Dr. Mustapha Arfi (LITIS, Le Havre) and Dr. Carla Selmi (LITIS, Rouen)  
@@ -83,11 +83,11 @@ Application to risk assessment", defended on 12/04/2011, co-directed with Pr. Da
 **Current situation of the doctor**: Assistant Professor King Khalid University, Saudi Arabia.
 
 * **Fahem Kebair**, "Multi-agent modelling of command posts coordinating strategic strategic decision making. Application to the RoboCupRescue simulation system", defended on 28/09/2009, co-supervision: Dr. Frédéric Serin (LITIS, Le Havre)  
-**Funding**: Regional Doctoral Research Grant + ATER (Temporary Teaching and Research Grant Holder) 
+**Funding**: Regional Doctoral Research Grant + ATER (Temporary Teaching and Research Grant Holder).  
 **Current situation of the doctor**: Associate Professor at the Higher Institute of Informatics of Tunis, Tunisia.
 
 * **Rawan Ghnemat**, "Complex systems modeling for geographic information systems", defended on 22/06/2009, co-directed with Pr. Gérard H.E. Duchamp (LIPN, Paris 13),  
-**Funding**: Research Grant from French Government proposed by the French Embassy in Jordan. 
+**Funding**: Research Grant from French Government proposed by the French Embassy in Jordan.   
 **Current position of the doctor**: Associate Professor and Chairman of the Computer Science Department at PSUT University, Amman, Jordan.
 
 * **Luaï Jaff**, "Dynamic Data Structures for Complex Systems", defended on 30/03/2007, co-directed with Pr. Gérard H.E. Duchamp (LIPN, Paris 13),  
@@ -107,7 +107,7 @@ Application to risk assessment", defended on 12/04/2011, co-directed with Pr. Da
 **Current position of the doctor**: Research Engineer at LITIS, Rouen, France.
 
 * **Bernard Adouobo**, "Numerical simulations of particle and particle-mesh methods on parallel machines", defended on 30/09/1998, joint supervision under the guidance of Pr. Serge Huberson (LOMC, Le Havre).  
-**Funding**: Côte d'Ivoire Doctoral Research Grant. 
+**Funding**: Côte d'Ivoire Doctoral Research Grant.  
 **Current position of the doctor**: Manager of [ABTOO](http://www.abtoo.com), Design office and simulation (static and dynamic) of road traffic.
 
 ### Participation in PhD and HDR juries (2018-2021)
