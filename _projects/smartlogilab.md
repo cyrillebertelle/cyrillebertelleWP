@@ -3,7 +3,7 @@ layout: page
 title: SmartLogiLab
 description: LaboCom SOGET-LITIS-SFLog on smart PCS/CCS
 img: /assets/img/smartLogiLab_logo-v2.png
-importance: 77
+importance: 3
 category: latest projects
 ---
 

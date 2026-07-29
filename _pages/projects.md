@@ -7,6 +7,12 @@ nav: true
 display_categories: [latest projects, previous projects, dissemination, others]
 horizontal: false
 ---
+List of research projects to which I have contributed, either as a project leader or as an expert.
+
+The aim is to develop innovative solutions, based on research, that address academic challenges or issues – often of a multidisciplinary nature – or that tackle practical problems in partnership with academics or businesses.
+
+Click on each tile to find out more about these projects.
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

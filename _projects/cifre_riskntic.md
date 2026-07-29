@@ -20,7 +20,7 @@ category: latest projects
 
 This project focuses on the development of probabilistic learning models in complex adaptive systems applied to risk management in cyber security.
 
-It is supported by a CIFRE agreement (ANRT) and allows the financing of Lina El Houari's PhD over a period of three years since December 2020.
+It is supported by a CIFRE agreement (ANRT) and allows the financing of Mamadou Kasse's PhD over a period of three years since December 2021.
 
 The partners are the company Risk'n TIC and the laboratories LMAH and LITIS/SFLog.
 
