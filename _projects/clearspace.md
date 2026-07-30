@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clearspace
-description: Projet collaboratif soutenu par la Région Normandie 
+description: A collaborative project funded by the Normandy Region and EU
 img: /assets/img/clearspace-v2.png
 importance: 8
 category: latest projects
@@ -17,33 +17,33 @@ category: latest projects
 </div>
 -->
 
-### Clearspace : Solution globale constituant des preuves juridiques de survols illégaux de drones
+### Clearspace: A comprehensive solution providing legal evidence of illegal drone overflights
 
-**Financeur** :
-Union Européenne et Région Normandie  
-**Montant total du financement** :
-95 000€ (38 000€ région /57 000€ FEDER)  
-**Période de réalisation** :
-01/11/2022 – 31/12/2025 (24 mois)   
-**Responsable scientifique pour l'Université Le Havre Normandie** : 
+**Funding body**:
+European Union and Normandy Region   
+**Total funding**:
+€95,000 (€38,000 from the region / €57,000 from the ERDF)   
+**Project period**:
+1 November 2022 – 31 December 2025 (24 months)   
+**Scientific lead for the University of Le Havre Normandy**:
 Claude Duvallet   
 
-#### Partenaires 
-* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN)
-* XTR Drones 
-* Cegelec Defense
+#### Partners
+* LITIS – Laboratory of Computer Science, Information Processing and Systems (ULHN)
+* XTR Drones
+* Cegelec Defence
 
 
-#### Descriptif du projet  
-Le projet ClearSpace a été mené par le LITIS pour l’Université Le Havre Normandie, en collaboration avec les sociétés XTR Drones et Cegelec Défense. Il avait pour objectif d’explorer l’utilisation de la technologie blockchain pour certifier et préserver l’intégrité des preuves associées à la détection d’intrusions de drones dans des zones surveillées.
+#### Project description
+The ClearSpace project was led by LITIS on behalf of the University of Le Havre Normandy, in collaboration with XTR Drones and Cegelec Defence. Its aim was to explore the use of blockchain technology to certify and preserve the integrity of evidence relating to the detection of drone intrusions in monitored areas.
 
-Dans ce cadre, les partenaires industriels XTR Drones et Cegelec Défense ont développé une solution technique permettant de détecter la présence de drones dans une zone donnée et de collecter un ensemble d’informations relatives à ces événements. Ces informations incluent notamment les coordonnées géographiques de la détection, la date et l’heure de l’événement ainsi que des photographies ou autres éléments visuels permettant de documenter l’intrusion. L’un des enjeux majeurs du projet consistait à garantir l’intégrité, la traçabilité et l’horodatage fiable de ces données afin de pouvoir démontrer qu’elles n’avaient pas été modifiées ou altérées après leur collecte, en particulier dans des contextes où elles pourraient être utilisées comme éléments de preuve.
+As part of this initiative, the industrial partners XTR Drones and Cegelec Défense have developed a technical solution capable of detecting the presence of drones in a given area and collecting a range of information relating to such incidents. This information includes, in particular, the geographical coordinates of the detection, the date and time of the incident, as well as photographs or other visual evidence to document the intrusion. One of the project’s key challenges was to ensure the integrity, traceability and reliable time-stamping of this data so as to be able to demonstrate that it had not been modified or tampered with after collection, particularly in contexts where it might be used as evidence.
 
-La technologie blockchain constitue une solution particulièrement adaptée à ce besoin. En effet, une blockchain repose sur un registre distribué, partagé entre plusieurs nœuds du réseau, dans lequel les informations enregistrées sont horodatées et rendues immuables grâce à l’utilisation de mécanismes cryptographiques et de chaînage des blocs. Une fois une donnée inscrite dans la blockchain, il devient extrêmement difficile de la modifier sans que cela soit détectable, ce qui permet de garantir l’intégrité et la traçabilité des informations dans le temps.
+Blockchain technology is a solution particularly well-suited to this need. Indeed, a blockchain is based on a distributed ledger, shared amongst several nodes in the network, in which the recorded information is time-stamped and made immutable through the use of cryptographic mechanisms and block chaining. Once data has been recorded on the blockchain, it becomes extremely difficult to alter it without this being detectable, thereby ensuring the integrity and traceability of the information over time.
 
-Le LITIS est intervenu en apportant son expertise dans le domaine des technologies blockchain afin de concevoir et de mettre en œuvre un mécanisme d’ancrage des données dans une blockchain, dans le cadre d’une preuve de concept. Plutôt que d’enregistrer directement l’ensemble des données dans la blockchain, ce qui serait coûteux et peu adapté aux volumes importants générés par les images, l’architecture retenue repose sur l’inscription dans la blockchain des seules empreintes cryptographiques (hash) des données. Les fichiers volumineux, tels que les photographies, sont ainsi conservés hors de la blockchain, tandis que leur empreinte numérique, immuable, est enregistrée dans la chaîne de blocs. Ce mécanisme permet de vérifier ultérieurement l’intégrité des données en comparant leur empreinte recalculée avec celle inscrite dans la blockchain.
+LITIS contributed its expertise in blockchain technology to design and implement a mechanism for anchoring data to a blockchain, as part of a proof of concept. Rather than recording all the data directly on the blockchain – which would be costly and ill-suited to the large volumes generated by images – the chosen architecture relies on recording only the cryptographic fingerprints (hashes) of the data on the blockchain. Large files, such as photographs, are thus stored outside the blockchain, whilst their immutable digital fingerprint is recorded on the blockchain. This mechanism allows the integrity of the data to be verified at a later date by comparing its recalculated fingerprint with the one recorded on the blockchain.
 
-Afin de faciliter l’intégration de ce mécanisme dans les systèmes développés par les partenaires industriels, le LITIS a également conçu et déployé un ensemble d’API permettant d’interagir avec la blockchain. Ces interfaces permettent aux partenaires d’ancrer indirectement les preuves de détection d’intrusions en soumettant les empreintes des données collectées au système d’ancrage. Cette approche rend l’utilisation de la blockchain transparente pour les applications métier tout en garantissant la traçabilité, l’intégrité et l’horodatage fiable des informations enregistrées.
+To facilitate the integration of this mechanism into the systems developed by industrial partners, LITIS has also designed and deployed a set of APIs enabling interaction with the blockchain. These interfaces allow partners to indirectly anchor evidence of intrusion detection by submitting hashes of the collected data to the anchoring system. This approach makes the use of the blockchain transparent to business applications whilst ensuring the traceability, integrity and reliable time-stamping of the recorded information.
 
 <img src="/assets/img/fig3-clearspace.png" width="700"/>
 

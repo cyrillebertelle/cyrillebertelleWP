@@ -1,7 +1,7 @@
 ---
 layout: page
 title: isiforecast
-description: Projet collaboratif financé par la Région Normandie
+description: A collaborative project funded by the Normandy Region
 img: /assets/img/isiforecast.png
 importance: 7
 category: latest projects
@@ -17,24 +17,24 @@ category: latest projects
 </div>
 -->
 
-### Isiforecast : Promouvoir une transformation économique innovante et intelligente
+### Isiforecast: Promoting innovative and smart economic transformation
 
-**Financeur** : Union Européenne 60 % + Région Normandie 40 %   
-**Montant total du financement** : 81 k€   
-**Période de réalisation** : 01/11/2023 au 30/04/2026 (30 mois)   
-**Responsables scientifiques** : Alexandre Berred et Cyrille Bertelle
-
-
-#### Partenaires
-* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN)
-* CIRCOE
-* Artyfêtes
+**Funding body**: European Union 60% + Normandy Region 40%  
+**Total funding**: €81,000   
+**Project period**: 1 November 2023 to 30 April 2026 (30 months)  
+**Principal Investigators**: Alexandre Berred and Cyrille Bertelle  
 
 
-#### Descriptif du projet
+#### Partners
+* LITIS – Laboratory of Computer Science, Information Processing and Systems (ULHN);
+* CIRCOE, Logistics Consultancy and Innovation, Normandy, Le Havre;
+* Artyfêtes, Designer of collections of party supplies for professionals.
 
-La gestion efficace des stocks et la prévision des ventes constituent des enjeux majeurs pour les entreprises, quel que soit leur secteur d’activité. Une mauvaise anticipation de la demande peut entraîner des surstocks coûteux, des ruptures de stock, ou une perte d’opportunités commerciales. Dans ce contexte, le projet ISIFORECAST a pour ambition de fournir une plateforme intelligente et modulable permettant d’améliorer la précision des prévisions de ventes, tout en restant accessible à des utilisateurs de profils variés. ISIFORECAST combine des méthodes classiques de prévision (telles que SARIMAX et Prophet) avec des modèles avancés d’apprentissage profond (N-BEATS, TCN, LSTM et des approches hybrides) afin de capturer les dynamiques temporelles complexes des séries de ventes. Le projet intègre également des fonctionnalités complémentaires telles que le clustering de produits, l’analyse du cycle de vie des produits, et la gestion des effets liés aux ruptures de stock, permettant ainsi une vision complète et opérationnelle des prévisions.
 
-Isiforcast est aujourd'hui mis en production par Circoe :
-[Site web Isiforecast](https://isiforecast.com/)
+#### Project description
+
+Effective stock management and sales forecasting are major challenges for businesses, regardless of their sector. Failure to anticipate demand accurately can lead to costly overstocking, stock-outs or a loss of business opportunities. Against this backdrop, the ISIFORECAST project aims to provide an intelligent and flexible platform that improves the accuracy of sales forecasts, whilst remaining accessible to users with a variety of profiles. ISIFORECAST combines traditional forecasting methods (such as SARIMAX and Prophet) with advanced deep learning models (N-BEATS, TCN, LSTM and hybrid approaches) to capture the complex temporal dynamics of sales time series. The project also incorporates additional features such as product clustering, product life-cycle analysis and the management of the effects of stock-outs, thereby providing a comprehensive and operational view of forecasts.
+
+Isiforecast is now being rolled out by Circoe:
+[Isiforecast website](https://isiforecast.com/)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CY-Chain
-description: Projet CY initiative, financé par Cergy Paris Université
+description: CY Initiative project, funded by Cergy Paris Université
 img: /assets/img/cychain.png
 importance: 5
 category: latest projects
@@ -17,39 +17,33 @@ category: latest projects
 </div>
 -->
 
-**Financeur** :
+**Funding Organisation** :
 CY Initiative - Cergy Paris Université   
-**Montant du financement** :
+**Amount of funding** :
 186 k€   
-**Période de réalisation** :
-09/2025 – 08/2028 (36 mois)     
-**Responsables scientifiques pour l'Université Le Havre Normandie** : 
+**implementation period** :
+09/2025 – 08/2028 (36 months)  
+**Chief Scientific Coordinator** : Patrick Barban (CY - Cergy Paris University)      
+**Local Scientific Coordinators for Le Havre Normandy University** : 
 Cyrille Bertelle et Claude Duvallet     
 
-#### Partenaires 
+#### Partners 
 * LEJEP - Laboratoire d'études juridiques et politique (CY Cergy Paris Université)
 * FSM - Fondation des sciences de la modélisation (Y Cergy Paris Université)
 * LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (Université Le Havre Normandie)
 * LERN - Laboratoire d'économie Rouen Noramndie (Université Rouen Normandie)
 
-#### Descriptif du projet  
+#### Project Description 
 
-La contractualisation sur blockchain est le processus de transcription d’engagements contractuels préalables sur blockchain, réalisé dans une optique d’optimisation de l’exécution contractuelle. La technologie blockchain permet en effet l'intégration d'engagements contractuels sur blockchain afin de profiter des fonctions de facilités probatoires et d’automatisation de cette technologie. Ces fonctions permettent de faciliter l’exécution contractuelle en intégrant sur blockchain certaines clauses du contrat. 
+Blockchain-based contracting is the process of recording pre-existing contractual commitments on the blockchain, with a view to optimising contract performance. Blockchain technology enables contractual commitments to be integrated onto the blockchain in order to benefit from the technology’s features relating to evidence and automation. These features facilitate contract performance by incorporating certain contractual clauses onto the blockchain.
 
-Le projet fait suite aux résultats obtenus dans un précédent projet portant sur les obstacles à la contractualisation sur blockchain. Le consortium, qui regroupe les universités de Cergy, du Havre et de Rouen, souhaite poursuivre les travaux en affinant les cas d’usages de la technologie blockchain en matière d’engagement contractuel.
+The project builds on the findings of a previous project examining the barriers to blockchain-based contracting. The consortium, comprising the universities of Cergy, Le Havre and Rouen, aims to continue this work by refining the use cases for blockchain technology in the context of contractual commitments.
 
-Deux pistes sont ainsi envisagées.
-* La première relative aux difficultés de transcription du contrat existant off-chain pour l’intégrer on-chain.
-Les risques de mauvaise traduction doivent être cantonnés pour éviter que des Smart Contracts défectueux
-soient implémentés. Le recours à l’intelligence artificielle peut permettre de faciliter cette transcription et
-renforcer la confiance des utilisateurs. Ces recherches s’appuieront également sur un cas d’études au
-travers d’un exemple de codage contractuel proposé par les INCOTERMS édités par la Chambre de
-commerce internationale (ICC) pour définir la répartition des risques et des coûts dans les contrats de
-transport de marchandises. Ce cas d’étude doit être déployé à plus grande échelle et être intégré dans un
-logiciel adapté.
-* La seconde relative aux difficultés de paiement, en lien avec l’actuelle transformation de la monnaie
-comme envisagé par les institutions européennes. L’étude de ces transformations permettra de renforcer
-les modes de paiements sur blockchain et conduire à proposer un logiciel adapté pour la contractualisation
-sur blockchain à destination des entreprises.
+
+Two approaches are therefore being considered.
+* The first relates to the difficulties involved in transcribing the existing off-chain contract to integrate it on-chain.
+The risks of incorrect translation must be minimised to prevent faulty smart contracts from being implemented. The use of artificial intelligence may help to facilitate this transcription and boost user confidence. This research will also draw on a case study using an example of contractual coding proposed by the INCOTERMS published by the International Chamber of Commerce (ICC) to define the allocation of risks and costs in contracts for the carriage of goods. This case study needs to be rolled out on a larger scale and integrated into suitable software.
+* The second relates to payment difficulties, in connection with the current transformation of currency as envisaged by the European institutions. The study of these transformations will help to strengthen blockchain-based payment methods and lead to the development of suitable software for blockchain-based contracting aimed at businesses.
+
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SmartLogiLab
-description: LaboCom SOGET-LITIS-SFLog on smart PCS/CCS
+description: LaboCom SOGET-LITIS on smart PCS
 img: /assets/img/smartLogiLab_logo-v2.png
 importance: 3
 category: latest projects
@@ -18,13 +18,31 @@ category: latest projects
 </div>
 -->
 
-SmartLogilab is an initiative launched at the end of 2019 in order to set up a partnership laboratory between the company SOGET of Le Havre, one of the world leaders in port information systems, the LITIS laboratory, the SFLog federative structure and ISEL engineering school. The objective is to contribute to new developments to include AI and Blockchain technologies in port information systems (PCS/CCS), in particular to develop new generation data platforms.
+#### Presentation and Context
 
-It benefits in particular from the work of Mongetro Goint's PhD funded by Le Havre agglomeration community: LHSM.
+SmartLogiLab is an initiative launched in late 2019 to establish a collaborative laboratory between SOGET, based in Le Havre, one of the world’s leading providers of port information systems, and the LITIS research laboratory.
 
-The scientific part is coordinated by Cyrille Bertelle and Claude Duvallet.
+SmartLogiLab is supported and accredited as a LabCom (Joint Laboratory) by the ANR (French National Research Agency), which will contribute €363,000 towards its funding from March 2023 for the first 54 months of its operation.
 
-The expected deliverables are prospective studies as well as the development of prototypes and proofs of concept around AI and blockchains for port logistics.
+A description is available on the ANR website:
+[SmartLogiLab – an innovation centre bringing together the LITIS research laboratory and SOGET](https://anr.fr/Projet-ANR-22-LCV2-0013).  
 
-Papers have been presented in international conferences: Blockchain'21 in Salamanca, Spain (October 2021) and ICoSCaL'21 in Le Havre, France (November 2021). 
+**Website** : [https://www.smartlogilab.com](https://www.smartlogilab.com)
 
+
+#### Objectives
+
+The aim is to contribute to new developments that incorporate AI and blockchain technologies into port information systems (PCS/CCS), in particular to develop next-generation data platforms.
+
+
+#### Governance
+
+#### Programmes
+
+#### Funding and resources
+
+#### Results
+
+#### Publications
+
+Papers have been presented at international conferences: Blockchain’21 in Salamanca, Spain (October 2021) and ICoSCaL’21 in Le Havre, France (November 2021).
