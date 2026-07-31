@@ -1,7 +1,7 @@
 ---
 layout: page
 title: isiforecast
-description: A collaborative project funded by the Normandy Region
+description: A collaborative project funded by the Normandy Region and European Union
 img: /assets/img/isiforecast.png
 importance: 7
 category: latest projects

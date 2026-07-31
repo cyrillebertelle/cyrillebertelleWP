@@ -34,7 +34,6 @@ A description is available on the ANR website:
 
 The aim is to contribute to new developments that incorporate AI and blockchain technologies into port information systems (PCS/CCS), in particular to develop next-generation data platforms.
 
-
 #### Governance
 
 #### Programmes
