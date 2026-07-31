@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Cyrille  Bertelle | blank</title>
+<title>Cyrille  Bertelle | Clearspace</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -39,7 +39,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👤</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/clearspace/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -116,8 +116,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 projects
@@ -176,56 +174,65 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Clearspace</h1>
+    <p class="post-description">A collaborative project funded by the Normandy Region and EU</p>
+  </header>
 
-
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2018/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-  </ul>
-
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
+  <article>
       
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blank">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blank - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blank - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+    <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/clearspace-v2.png" alt="" title="assaillant logo" />
+    </div>
+</div>
+<!-- 
+<div class="caption">
+    FuMa logo
+</div>
+-->
+
+<h3 id="clearspace-a-comprehensive-solution-providing-legal-evidence-of-illegal-drone-overflights">Clearspace: A comprehensive solution providing legal evidence of illegal drone overflights</h3>
+
+<p><strong>Funding body</strong>:
+European Union and Normandy Region <br />
+<strong>Total funding</strong>:
+€95,000 (€38,000 from the region / €57,000 from the ERDF) <br />
+<strong>Project period</strong>:
+1 November 2022 – 31 December 2025 (24 months) <br />
+<strong>Scientific lead for the University of Le Havre Normandy</strong>:
+Claude Duvallet</p>
+
+<h4 id="partners">Partners</h4>
+<ul>
+  <li>LITIS – Laboratory of Computer Science, Information Processing and Systems (ULHN)</li>
+  <li>XTR Drones</li>
+  <li>Cegelec Defence</li>
+</ul>
+
+<h4 id="project-description">Project description</h4>
+<p>The ClearSpace project was led by LITIS on behalf of the University of Le Havre Normandy, in collaboration with XTR Drones and Cegelec Defence. Its aim was to explore the use of blockchain technology to certify and preserve the integrity of evidence relating to the detection of drone intrusions in monitored areas.</p>
+
+<p>As part of this initiative, the industrial partners XTR Drones and Cegelec Défense have developed a technical solution capable of detecting the presence of drones in a given area and collecting a range of information relating to such incidents. This information includes, in particular, the geographical coordinates of the detection, the date and time of the incident, as well as photographs or other visual evidence to document the intrusion. One of the project’s key challenges was to ensure the integrity, traceability and reliable time-stamping of this data so as to be able to demonstrate that it had not been modified or tampered with after collection, particularly in contexts where it might be used as evidence.</p>
+
+<p>Blockchain technology is a solution particularly well-suited to this need. Indeed, a blockchain is based on a distributed ledger, shared amongst several nodes in the network, in which the recorded information is time-stamped and made immutable through the use of cryptographic mechanisms and block chaining. Once data has been recorded on the blockchain, it becomes extremely difficult to alter it without this being detectable, thereby ensuring the integrity and traceability of the information over time.</p>
+
+<p>LITIS contributed its expertise in blockchain technology to design and implement a mechanism for anchoring data to a blockchain, as part of a proof of concept. Rather than recording all the data directly on the blockchain – which would be costly and ill-suited to the large volumes generated by images – the chosen architecture relies on recording only the cryptographic fingerprints (hashes) of the data on the blockchain. Large files, such as photographs, are thus stored outside the blockchain, whilst their immutable digital fingerprint is recorded on the blockchain. This mechanism allows the integrity of the data to be verified at a later date by comparing its recalculated fingerprint with the one recorded on the blockchain.</p>
+
+<p>To facilitate the integration of this mechanism into the systems developed by industrial partners, LITIS has also designed and deployed a set of APIs enabling interaction with the blockchain. These interfaces allow partners to indirectly anchor evidence of intrusion detection by submitting hashes of the collected data to the anchoring system. This approach makes the use of the blockchain transparent to business applications whilst ensuring the traceability, integrity and reliable time-stamping of the recorded information.</p>
+
+<p><img src="/assets/img/fig3-clearspace.png" width="700" /></p>
+
+<p><img src="/assets/img/AntenneClearSpace.png" width="450" /></p>
+
+<p><img src="/assets/img/fig2-clearspace.png" width="700" /></p>
+
+<p><img src="/assets/img/fig4-clearspace.png" width="700" /></p>
+
+<p><img src="/assets/img/fig1-clearspace.png" width="700" /></p>
 
 
+  </article>
 
 </div>
 
